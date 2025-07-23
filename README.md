@@ -179,5 +179,3 @@ Pull requests are welcome. For major changes, please open an issue first...
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 ```
-
-Remember that your README should be tailored to your specific project and audience. The more complex your project, the more detailed your README should be.
